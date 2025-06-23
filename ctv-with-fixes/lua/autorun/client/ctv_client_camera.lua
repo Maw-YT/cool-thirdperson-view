@@ -25,7 +25,7 @@ local vars = {
 		b = CreateConVar("cl_nte_crosshair_hidden_b", 100, FCVAR_ARCHIVE),
 		a = CreateConVar("cl_nte_crosshair_hidden_a", 255, FCVAR_ARCHIVE),
 	},
-	render_head = CreateConVar("cl_nte_render_head", 0, FCVAR_ARCHIVE),
+	render_head = CreateConVar("cl_nte_render_head", 1, FCVAR_ARCHIVE),
 	head_offset = CreateConVar("cl_nte_head_offset", "8 -8 0", FCVAR_ARCHIVE),
 	autoside_enabled = CreateConVar("cl_nte_autoside_enabled", 1, FCVAR_ARCHIVE),
 	default_side = CreateConVar("cl_nte_default_side", -1, FCVAR_ARCHIVE),
