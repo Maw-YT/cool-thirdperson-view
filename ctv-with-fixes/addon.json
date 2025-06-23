@@ -1,0 +1,12 @@
+{
+  "title": "CTV: Maw Edition",
+  "type": "ServerContent",
+  "tags": [
+    "roleplay",
+    "build",
+    "realism"
+  ],
+  "ignore": [
+    "*.phz"
+  ]
+}
